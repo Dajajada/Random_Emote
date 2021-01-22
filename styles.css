@@ -87,7 +87,10 @@ footer{
 }
 .imgBox{
     margin-top: 5%;
+    width: 60vw;
 }
-
+.buttonBox{
+    width: 60vw;
+}
 }
 
